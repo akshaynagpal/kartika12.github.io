@@ -1,9 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+        background-color: coral;
+
 }
 nav ul, footer ul {
-    background-color: coral;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
